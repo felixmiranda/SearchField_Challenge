@@ -1,0 +1,14 @@
+D:\Nueva carpeta\SearchFight-master\clonar\cignium-searchfight\src\Cignium.SearchFight\bin\Debug\Cignium.SearchFight.exe.config
+D:\Nueva carpeta\SearchFight-master\clonar\cignium-searchfight\src\Cignium.SearchFight\bin\Debug\Cignium.SearchFight.exe
+D:\Nueva carpeta\SearchFight-master\clonar\cignium-searchfight\src\Cignium.SearchFight\bin\Debug\Cignium.SearchFight.pdb
+D:\Nueva carpeta\SearchFight-master\clonar\cignium-searchfight\src\Cignium.SearchFight\bin\Debug\Cignium.SearchFight.Core.dll
+D:\Nueva carpeta\SearchFight-master\clonar\cignium-searchfight\src\Cignium.SearchFight\bin\Debug\Cignium.SearchFight.Services.dll
+D:\Nueva carpeta\SearchFight-master\clonar\cignium-searchfight\src\Cignium.SearchFight\bin\Debug\Cignium.SearchFight.Shared.dll
+D:\Nueva carpeta\SearchFight-master\clonar\cignium-searchfight\src\Cignium.SearchFight\bin\Debug\Cignium.SearchFight.Core.pdb
+D:\Nueva carpeta\SearchFight-master\clonar\cignium-searchfight\src\Cignium.SearchFight\bin\Debug\Cignium.SearchFight.Services.pdb
+D:\Nueva carpeta\SearchFight-master\clonar\cignium-searchfight\src\Cignium.SearchFight\bin\Debug\Cignium.SearchFight.Shared.pdb
+D:\Nueva carpeta\SearchFight-master\clonar\cignium-searchfight\src\Cignium.SearchFight\obj\Debug\App.SearchFight.csprojAssemblyReference.cache
+D:\Nueva carpeta\SearchFight-master\clonar\cignium-searchfight\src\Cignium.SearchFight\obj\Debug\App.SearchFight.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\SearchFight-master\clonar\cignium-searchfight\src\Cignium.SearchFight\obj\Debug\App.SearchFight.csproj.CopyComplete
+D:\Nueva carpeta\SearchFight-master\clonar\cignium-searchfight\src\Cignium.SearchFight\obj\Debug\Cignium.SearchFight.exe
+D:\Nueva carpeta\SearchFight-master\clonar\cignium-searchfight\src\Cignium.SearchFight\obj\Debug\Cignium.SearchFight.pdb

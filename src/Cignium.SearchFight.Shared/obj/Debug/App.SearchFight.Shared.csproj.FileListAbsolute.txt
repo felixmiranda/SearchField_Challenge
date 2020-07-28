@@ -1,0 +1,5 @@
+D:\Nueva carpeta\SearchFight-master\clonar\cignium-searchfight\src\Cignium.SearchFight.Shared\bin\Debug\Cignium.SearchFight.Shared.dll
+D:\Nueva carpeta\SearchFight-master\clonar\cignium-searchfight\src\Cignium.SearchFight.Shared\bin\Debug\Cignium.SearchFight.Shared.pdb
+D:\Nueva carpeta\SearchFight-master\clonar\cignium-searchfight\src\Cignium.SearchFight.Shared\obj\Debug\App.SearchFight.Shared.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\SearchFight-master\clonar\cignium-searchfight\src\Cignium.SearchFight.Shared\obj\Debug\Cignium.SearchFight.Shared.dll
+D:\Nueva carpeta\SearchFight-master\clonar\cignium-searchfight\src\Cignium.SearchFight.Shared\obj\Debug\Cignium.SearchFight.Shared.pdb
